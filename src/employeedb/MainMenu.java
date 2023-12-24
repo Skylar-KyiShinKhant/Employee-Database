@@ -7,7 +7,7 @@ package employeedb;
 
 /**
  *
- * @author steve
+ * @author skylar
  */
 public class MainMenu extends javax.swing.JFrame {
 

@@ -7,7 +7,7 @@ package employeedb;
 
 /**
  *
- * @author steve
+ * @author skylar
  */
 import java.sql.*;
 public class clsDBConnection {
