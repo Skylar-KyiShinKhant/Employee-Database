@@ -17,13 +17,13 @@ This "Employee Database" project provides users with the capability to manage em
 
 ## About The Project
 As you initiate the project, you'll encounter the menu page, which features a few buttons. Its appearance is rather simple, considering that this marks my initial venture into Java programming.
-<img src="https://github.com/Skylar-KyiShinKhant/Employee_Database/blob/main/employeedb-ss/Screenshot-1.png">
+<img src="https://github.com/Skylar-KyiShinKhant/Employee-Database/blob/main/employeedb-ss/Screenshot-1.png">
 
 By clicking the __Employee Entry__ button, you'll be directed to a page where you can input and add new employee details to the database.
-<img src="https://github.com/Skylar-KyiShinKhant/Employee_Database/blob/main/employeedb-ss/Screenshot-2.png">
+<img src="https://github.com/Skylar-KyiShinKhant/Employee-Database/blob/main/employeedb-ss/Screenshot-2.png">
 
 To update employee details, navigate to the __Employee Update__ button. This allows you to modify and revise the information stored in the database.
-<img src="https://github.com/Skylar-KyiShinKhant/Employee_Database/blob/main/employeedb-ss/Screenshot-3.png">
+<img src="https://github.com/Skylar-KyiShinKhant/Employee-Database/blob/main/employeedb-ss/Screenshot-3.png">
 
 To retrieve comprehensive information about a specific employee, utilize the __Employee Searching__ button. This feature enables you to search and access all relevant details in the database.
 <table>
@@ -32,16 +32,16 @@ To retrieve comprehensive information about a specific employee, utilize the __E
     <td>After</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Skylar-KyiShinKhant/Employee_Database/blob/main/employeedb-ss/Screenshot-4.png" width="350"></td>
-    <td><img src="https://github.com/Skylar-KyiShinKhant/Employee_Database/blob/main/employeedb-ss/Screenshot-5.png" width="350"></td>
+    <td><img src="https://github.com/Skylar-KyiShinKhant/Employee-Database/blob/main/employeedb-ss/Screenshot-4.png" width="500"></td>
+    <td><img src="https://github.com/Skylar-KyiShinKhant/Employee-Database/blob/main/employeedb-ss/Screenshot-5.png" width="500"></td>
   </tr>
 </table>
 
 With the __Employee Listing__ button, you'll find a comprehensive display of all employee information organized in ascending order based on their respective employee ID numbers.
-<img src="https://github.com/Skylar-KyiShinKhant/Employee_Database/blob/main/employeedb-ss/Screenshot-6.png">
+<img src="https://github.com/Skylar-KyiShinKhant/Employee-Database/blob/main/employeedb-ss/Screenshot-6.png">
 
 Upon clicking the __Exit__ button, a confirmation window will appear, prompting you to confirm your intention. Depending on your response, the system will either proceed with the exit or remain active.
-<img src="https://github.com/Skylar-KyiShinKhant/Employee_Database/blob/main/employeedb-ss/Screenshot-7.png">
+<img src="https://github.com/Skylar-KyiShinKhant/Employee-Database/blob/main/employeedb-ss/Screenshot-7.png">
 
 ## Built with
 - Java
